@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 void main() {
-    int b = 2;
+    /* comentario util */
+    int a = 10;
     printf("Teste");
     printf("\nTeste 2");
 }
